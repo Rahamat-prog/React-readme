@@ -417,6 +417,8 @@ Great observation! This shows you are **thinking, not just reading.** 💪
 
 Say **done** and we move to `useDispatch` 🚀
 
+if we not write this state = initialState so we need to pass directly initialState inside useSelector?
+
 ## Great Question! 🤔
 
 Let's see what happens in both cases:
